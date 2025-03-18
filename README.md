@@ -4,11 +4,11 @@ This document explains how to set up a SFA3X sensor to run on an embedded device
 
 <img src="images/sfa3x.png" width="300px">
 
-Click [here](https://sensirion.com/de/produkte/katalog/SFA30) to learn more about the Sensirion SFA3X sensor.
+Click [here](https://sensirion.com/products/catalog/SEK-SFA30) to learn more about the Sensirion SFA3X sensor.
 
 
 
-The default I²C address of [SFA3X]() is ****.
+The default I²C address of [SFA3X](https://sensirion.com/products/catalog/SFA30) is **0x5D**.
 
 
 

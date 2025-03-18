@@ -3,7 +3,7 @@
  *
  * Generator:     sensirion-driver-generator 1.1.2
  * Product:       sfa3x
- * Model-Version: 1.0.0
+ * Model-Version: 1.1.0
  */
 
 #include "sensirion_common.h"

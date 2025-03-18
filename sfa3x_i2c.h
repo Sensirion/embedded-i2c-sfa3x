@@ -3,7 +3,7 @@
  *
  * Generator:     sensirion-driver-generator 1.1.2
  * Product:       sfa3x
- * Model-Version: 1.0.0
+ * Model-Version: 1.1.0
  */
 /*
  * Copyright (c) 2025, Sensirion AG
@@ -44,7 +44,7 @@ extern "C" {
 #endif
 
 #include "sensirion_config.h"
-#define SFA30_I2C_ADDR_5D 0x5d
+#define SFA3X_I2C_ADDR_5D 0x5d
 
 typedef enum {
     SFA3X_START_CONTINUOUS_MEASUREMENT_CMD_ID = 0x6,
