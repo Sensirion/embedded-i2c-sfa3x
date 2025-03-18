@@ -3,7 +3,7 @@
  *
  * Generator:     sensirion-driver-generator 1.1.2
  * Product:       sfa3x
- * Model-Version: 1.0.0
+ * Model-Version: 1.1.0
  */
 /*
  * Copyright (c) 2025, Sensirion AG
@@ -46,7 +46,7 @@
 int main(void) {
     int16_t error = NO_ERROR;
     sensirion_i2c_hal_init();
-    sfa3x_init(SFA30_I2C_ADDR_5D);
+    sfa3x_init(SFA3X_I2C_ADDR_5D);
 
     error = sfa3x_device_reset();
     if (error != NO_ERROR) {
